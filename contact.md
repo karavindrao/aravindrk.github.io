@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
 **Aravind Rao Karanam**
 
 2355 Gosnell Hall
