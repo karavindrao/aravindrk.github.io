@@ -32,5 +32,5 @@ among underprivileged children in India.
 
 I am also greatly interested in teaching. I am an enthusiastic runner. I enjoy cricket, cooking, and chai.
 
-It's my firm belief that bowlers win you [test matches](https://en.wikipedia.org/wiki/Test_cricket).
+It is my firm belief that bowlers win you [test matches](https://en.wikipedia.org/wiki/Test_cricket).
 All other beliefs are subject to change.
