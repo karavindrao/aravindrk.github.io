@@ -38,7 +38,6 @@ header_pages:
   - docs/about.md
   - docs/cv.html
   - docs/research.md
-  - docs/teaching.md
   - docs/contact.md
 
 minima:
