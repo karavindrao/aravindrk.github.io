@@ -35,11 +35,11 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - about.markdown
-  - cv.html
-  - research.md
-  - teaching.md
-  - contact.md
+  - docs/about.md
+  - docs/cv.html
+  - docs/research.md
+  - docs/teaching.md
+  - docs/contact.md
 
 minima:
   # Minima skin selection.
