@@ -20,9 +20,7 @@
 
 title: Aravind's Bulletin Board
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my webpage! Here you'll find my contact information, CV, a list
-  of my interets, and links to my publications.
+description: >- # this means to ignore newlines until "baseurl:"  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "karavindrao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
