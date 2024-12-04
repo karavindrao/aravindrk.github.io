@@ -4,9 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research Projects
-
-## Computational modeling of network restructuring in active cytoskeletal composites
+## <span style="color: blue;">Computational modeling of network restructuring in active cytoskeletal composites</span>
 
 Active Cytoskeletal Composites (ACCs), composed of actin and microtubule filaments,
 active motors, and passive crosslinkers. They display novel mechanical properties that
@@ -14,7 +12,7 @@ can be harnessed to synthesize controllable active materials. We model the dynam
 the composites using large-scale Brownian Dynamics simulations to predict the 
 restructuring of the composite and to inform the formulation of hydrodynamic theories.
 
-## Computational and theoretical modeling of the cytoskeleton of *Stentor coeruleus* to understand its wound healing abilities
+## <span style="color: blue;">Computational and theoretical modeling of the cytoskeleton of *Stentor coeruleus* to understand its wound healing abilities</span>
 
 The single-celled ciliate \textsl{Stentor coeruleus} can withstand substantial mechanical
 deformation and can also heal large wounds. Our  work studies the response of *Stentor*'s
@@ -22,7 +20,7 @@ cytoskeleton to large-scale damage, coupled with calcium signaling triggered by 
 formation. This study offers insights into wound-healing mechanisms at the level of 
 individual cells.
 
-## Analysis and modeling of eukaryotic chemotaxis under periodic stimuli
+## <span style="color: blue;">Analysis and modeling of eukaryotic chemotaxis under periodic stimuli</span>
 
 An analysis of the chemotaxis of the social amoeba *Dictyostelium discoideum*, when
 exposed to multiple waves of the chemoattractant, showed that the chemotactic ability
@@ -32,7 +30,7 @@ was also compatible with earlier studies. The improvement in chemotaxis was show
 involve temporal gradient sensing besides spatial gradient sensing, while earlier 
 models focused solely on the latter.
 
-## Boolean modeling of guard cell signaling in leaves, and GUI development for simulating Boolean networks
+## <span style="color: blue;">Boolean modeling of guard cell signaling in leaves, and GUI development for simulating Boolean networks</span>
 
 An existing Boolean model of guard cell signaling in leaves, leading to the closure 
 of stomata in response to a plant hormone ABA, was extended to include the effect of
@@ -42,7 +40,7 @@ open-source GUI software to simulate and analyze user-defined Boolean networks w
 developed and used in this project, and was made available to the community.
 
 
-# Publications
+## Publications
 
 The following publications may also be found on my [Google Scholar 
 profile](https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ)
