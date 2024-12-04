@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   of my interets, and links to my publications.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "karavindrao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
+# twitter_username: 
+# github_username: 
 
 # Build settings
 theme: minima
@@ -40,6 +40,12 @@ header_pages:
   - research.md
   - teaching.md
   - contact.md
+
+minima:
+social_links:
+  - { platform: linkedin,  user_url: "https://linkedin.com/in/karavindrao" }
+  - { platform: bluesky, user_url: "https://bsky.app/profile/karavindrao.bsky.social" }
+  - { platform: google_scholar, user_url: "https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
