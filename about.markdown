@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
+I am a Postdoctoral Research Associate at Rochester Institute of Technology in 
+[Prof. Moumita Das'](https://www.rit.edu/directory/modsps-moumita-das) group.
 I work on computational and theoretical modeling of cytoskeletal polymers to understand their
 mechanical properties and their role in biological processes such as wound healing.
-I am a postdoctoral research associate at Rochester Institute of Technology in 
-[Prof. Moumita Das'](https://www.rit.edu/directory/modsps-moumita-das) group.
 
 In projects during my Ph.D under the mentorship of [Dr. Wouter-Jan Rappel](https://scholar.google.co.in/citations?user=1aJwIRkAAAAJ)
 at UC San Diego, I used data-driven modeling approaches to understand reaction 
@@ -15,6 +15,8 @@ pathways in chemotaxis of the social amoeba Dictyostelium. I have also worked
 on modeling the reaction networks in plant guard cells using Boolean networks.
 
 You can read more about the projects and view my publications **here**. 
+
+### Biographical sketch
 
 My academic journey has taken me to these cities from Ananatapur in Andhra Pradesh,
 India, where I was born and raised.
