@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#![Aravind displayPic](./assets/images/ak_bryceCanyon_crop.jpg)
-
 I work on computational and theoretical modeling of cytoskeletal polymers to understand their
 mechanical properties and their role in biological processes such as wound healing.
 I am a postdoctoral research associate at Rochester Institute of Technology in 
