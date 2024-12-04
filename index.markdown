@@ -6,3 +6,5 @@ layout: home
 ---
 
 Hello and welcome to my site!
+
+![Aravind displayPic](./assets/images/ak_bryceCanyon_crop.jpg){: width="250" }
