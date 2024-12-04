@@ -63,6 +63,12 @@ minima:
     - { platform: linkedin,  user_url: "https://linkedin.com/in/karavindrao" }    
     - { platform: google_scholar, user_url: "https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ" }
 
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
