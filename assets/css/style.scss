@@ -5,3 +5,16 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
