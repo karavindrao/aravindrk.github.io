@@ -16,7 +16,7 @@ on modeling the reaction networks in plant guard cells using Boolean networks.
 
 You can read more about the projects and view my publications **here**. 
 
-### Biographical sketch
+## Biographical sketch
 
 My academic journey has taken me to these cities from Ananatapur in Andhra Pradesh,
 India, where I was born and raised.
