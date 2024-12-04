@@ -42,20 +42,27 @@ header_pages:
   - teaching.md
   - contact.md
 
-
 minima:
-skin: classic
-  
-# Minima date format.
-# The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
-# Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-#date_format: "%b-%d-%Y"
+  # Minima skin selection.
+  # Available skins are:
+  # classic	           Default, light color scheme.
+  # dark	             Dark variant of the classic skin.
+  # auto	             Adaptive skin based on the default classic and dark skins.
+  # solarized-light	   Light variant of solarized color scheme.
+  # solarized-dark	   Dark variant of solarized color scheme.
+  # solarized	         Adaptive skin for solarized color scheme skins.
+  skin: classic
 
-# Generate social links in footer.
-#social_links:
-#  - { platform: linkedin,  user_url: "https://linkedin.com/in/karavindrao" }
-#  - { platform: bluesky, user_url: "https://bsky.app/profile/karavindrao.bsky.social" }
-#  - { platform: google_scholar, user_url: "https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ" }
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #date_format: "%b-%d-%Y"
+  
+  # Generate social links in footer.
+  social_links:
+    - { platform: linkedin,  user_url: "https://linkedin.com/in/karavindrao" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/karavindrao.bsky.social" }
+    - { platform: google_scholar, user_url: "https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
