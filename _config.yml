@@ -43,6 +43,7 @@ header_pages:
   - contact.md
 
 minima:
+skin: classic
 social_links:
   - { platform: linkedin,  user_url: "https://linkedin.com/in/karavindrao" }
   - { platform: bluesky, user_url: "https://bsky.app/profile/karavindrao.bsky.social" }
