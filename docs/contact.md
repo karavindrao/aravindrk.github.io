@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## Aravind Rao Karanam
+### Aravind Rao Karanam
 
 2355 Gosnell Hall
 
