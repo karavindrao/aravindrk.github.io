@@ -39,7 +39,6 @@ header_pages:
   - research.md
   - teaching.md
   - contact.md
-  - /assests/cv_2024-12-04.pdf
 
 minima:
   # Minima skin selection.
