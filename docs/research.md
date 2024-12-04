@@ -40,20 +40,24 @@ open-source GUI software to simulate and analyze user-defined Boolean networks w
 developed and used in this project, and was made available to the community.
 
 
-## Publications
+# <span style="color: blue;">Publications</span>
 
 The following publications may also be found on my [Google Scholar 
 profile](https://scholar.google.co.in/citations?user=JIU8QEgAAAAJ)
 
 1. Karmakar, R., Karanam, A., Tang, M.H. and Rappel, W.J., 2024. Eukaryotic chemotaxis
    under periodic stimulation shows temporal gradient dependence. Phys. Rev. Lett. 133, 068401
+   [Link](https://doi.org/10.1103/PhysRevLett.133.068401)
 1. Karanam, A. and Rappel, W.J., 2022. Boolean modelling in plant biology. Quantitative
    Plant Biology, 3, p.e29.
+   [Link](https://doi.org/10.1017/qpb.2022.26)
 1. Karanam, A., He, D., Hsu, P.K., Schulze, S., Dubeaux, G., Karmakar, R., Schroeder, J.I.
    and Rappel, W.J., 2021. Boolink: a graphical interface for open access Boolean network
    simulations and use in guard cell CO<sub>2</sub> signaling. Plant Physiology, 187(4), pp.2311-2322.
+   [Link](https://doi.org/10.1093/plphys/kiab344)
 1. Karmakar, R., Tang, M.H., Yue, H., Lombardo, D., Karanam, A., Camley, B.A., Groisman, A.
    and Rappel, W.J., 2021. Cellular memory in eukaryotic chemotaxis depends on the background
    chemoattractant concentration. Physical Review E, 103(1), p.012402.
+   [Link](https://doi.org/10.1103/PhysRevE.103.012402)
 
 
