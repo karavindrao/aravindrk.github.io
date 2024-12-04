@@ -11,8 +11,9 @@ mechanical properties and their role in biological processes such as wound heali
 
 In projects during my Ph.D under the mentorship of [Dr. Wouter-Jan Rappel](https://scholar.google.co.in/citations?user=1aJwIRkAAAAJ)
 at UC San Diego, I used data-driven modeling approaches to understand reaction 
-pathways in chemotaxis of the social amoeba Dictyostelium. I have also worked
-on modeling the reaction networks in plant guard cells using Boolean networks.
+pathways in chemotaxis of the social amoeba *Dictyostelium discoideum*. 
+I have also worked on modeling the reaction networks in plant guard cells
+using Boolean networks.
 
 You can read more about the projects and view my publications **here**. 
 
