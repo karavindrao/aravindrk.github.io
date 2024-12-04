@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Aravind's Bulletin Board
-email: arksps@rit.edu
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my webpage! Here you'll find my contact information, CV, a list
   of my interets, and links to my publications.
@@ -39,7 +39,6 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - README.md
   - about.markdown 
   - contact.markdown
 
